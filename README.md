@@ -18,7 +18,7 @@
 | MSE | - | - | 1.35E-06 |
 | PSNR | - | - | 58.68dB |
 
-> 모델 경량화 및 속도 개선과 동시에 품질은 FP32와 동등한 수준
+→ 모델 경량화 및 속도 개선과 동시에 품질은 FP32와 동등한 수준
 
 ---
 📄 [Work Details](https://portfolio-unoh.site/optim)  
